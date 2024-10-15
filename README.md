@@ -1,5 +1,5 @@
 # 16-bit-Carry-Lookahead-Adder
-! There are some errors in the shematic ı will fix it
+! There are some errors in the shematic I will fix it
 
 16 bit Carry Lookahead Adder design in Verilog.
 In top module CLA are again connected via CLA logic.
